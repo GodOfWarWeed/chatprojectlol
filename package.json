@@ -9,9 +9,9 @@
   "author": "Ninaad,Shraddha",
   "license": "ISC",
   "dependencies": {
-  	"ejs": "*",
-  	"express": "*",
-  	"socket.io": "*",
-  	"gravatar": "*"
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "gravatar": "^1.5.2",
+    "socket.io": "^1.4.8"
   }
 }
